@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace SimpleMod_NativeModloader
+namespace NativeModloaderTemplate
 {
     public class WorldBoxMod : MonoBehaviour
     {
