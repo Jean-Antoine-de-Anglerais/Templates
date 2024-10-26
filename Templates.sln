@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BepInExPreloaderPatchTempla
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NativeModloaderTemplateWithHarmony", "NativeModloaderTemplateWithHarmony\NativeModloaderTemplateWithHarmony.csproj", "{17A33CFE-AED3-4D4E-B80E-2427D445AAB9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NativeModloaderTemplate", "NativeModloaderTemplate\NativeModloaderTemplate.csproj", "{B53D2FBA-9591-4B28-BD67-82F4E2A054B5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{17A33CFE-AED3-4D4E-B80E-2427D445AAB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17A33CFE-AED3-4D4E-B80E-2427D445AAB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17A33CFE-AED3-4D4E-B80E-2427D445AAB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B53D2FBA-9591-4B28-BD67-82F4E2A054B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B53D2FBA-9591-4B28-BD67-82F4E2A054B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B53D2FBA-9591-4B28-BD67-82F4E2A054B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B53D2FBA-9591-4B28-BD67-82F4E2A054B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
